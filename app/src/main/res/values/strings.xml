@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherGSB</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="empty">Empty</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="day_list">Monday 29/01/2023</string>
+    <string name="condition_list">Sunny</string>
+    <string name="temp_list">20°C</string>
+</resources>
